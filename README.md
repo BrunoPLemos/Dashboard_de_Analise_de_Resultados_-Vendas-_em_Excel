@@ -8,9 +8,9 @@ O dashboard foi criado com dados fictícios para fins de portfólio.
 
 ## 📊 Visualização do Dashboard
 
-(Aqui você deve inserir a imagem do seu dashboard. Se você já enviou a imagem para o repositório, basta alterar o nome do arquivo abaixo. Recomendo criar uma pasta "img" e colocar a imagem lá.)
 
-![Dashboard de Análise de Resultados](image_049203.png)
+
+![Dashboard de Análise de Resultados](Dashboard 1 imagem.png)
 
 ## 🎯 Objetivo do Projeto
 
