@@ -10,7 +10,7 @@ O dashboard foi criado com dados fictícios para fins de portfólio.
 
 
 
-![Dashboard de Análise de Resultados](Dashboard 1 imagem.png)
+![Dashboard de Análise de Resultados](Dashboard%201%20imagem.png)
 
 ## 🎯 Objetivo do Projeto
 
